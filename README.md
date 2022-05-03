@@ -6,7 +6,7 @@
 This my current portfolio
 
 
-![images](./portfolio-app/src/assets/images/portfolio.png)
+![images](./portfolio.png)
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
